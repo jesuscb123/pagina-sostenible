@@ -1,0 +1,120 @@
+:root {
+    --primary-color: hsl(108, 46%, 59%);
+    --secondary-color: #63dc69;
+    --background-color: #F2E9DC;
+    --text-color: #1e1c1c;
+
+}
+
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.body{
+    background-color: var(--primary-color);
+    width: 100%;
+}
+.encabezado {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    width: 100%;
+}
+
+.encabezado__titulo {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+}
+
+.encabezado__menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu___lista{
+    margin-top:0.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:1.5rem;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-direction: row;
+    list-style-type: none;
+
+}
+
+
+a{
+    text-decoration: none;
+    font-size: 1rem;
+  
+}
+.menu__lista-link {
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1em;
+    padding: 5px 8px;
+    background: var(--background-color);
+    border-radius: 3px;
+}
+
+.encabezado__img {
+    width: 30%;
+    margin: 30px;
+}
+
+
+
+
+.cuerpo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap:1rem;
+    background: linear-gradient(to bottom, var(--primary-color), hsl(108, 46%, 70%));;
+}
+
+.cuerpo__seccion {
+    background: var(--background-color);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    margin-top: 0.1rem;
+    padding:1rem;
+
+}
+
+.Titulo__seccion {
+    font-size: 1.2em;
+    margin: 0 0 5px 0;
+    color: var(--secondary-color);
+}
+
+.cuerpo__content {
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:2rem;
+    background-color: var(--secondary-color);
+}
