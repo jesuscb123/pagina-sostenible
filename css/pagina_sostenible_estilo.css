@@ -3,6 +3,7 @@
     --secondary-color: #63dc69;
     --background-color: #F2E9DC;
     --text-color: #1e1c1c;
+    --color-recuadro:#b4eeb7;
 
 }
 
@@ -58,7 +59,6 @@
 
 
 .cuerpo {
-    width: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -74,15 +74,11 @@
 
 .cuerpo_seccion {
     background: var(--background-color);
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 3px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
-
     padding:1rem;
 }
 
@@ -104,21 +100,41 @@
     color: var(--secondary-color);
 }
 
-.cuerpo__content {
+.cuerpo2{
     width: 100%;
+    background: var(--background-color);
 }
 
+.cuerpo2_titulo{
+    text-align: center;
+    padding: 1rem;
+}
 
-.cuerpo2_seccion{
+.cuerpo2_seccion2{
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     flex-direction: row;
-    justify-content: center;
+    gap:0.5rem;
+
 
 }
 
-.seccion2__articulo{
+
+.seccion2__articulo2{
+    width: 30%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
+    flex-direction: column;
+    padding:0.5rem;
+    text-align: center;
+    background-color: var(--color-recuadro);
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 
 }
 
