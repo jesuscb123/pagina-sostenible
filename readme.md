@@ -67,6 +67,23 @@ Las secciones están enlazadas desde el menú para facilitar la navegación.
 
 - Imágenes: Iconos e ilustraciones representativas de cada ODS.
 
+### Análisis del Ciclo de Vida del Hardware y Software en el Proyecto EnerGreen
+
+#### Ciclo de Vida del Hardware y del Software:
+
+- Respecto al hardware, nuestra página web está diseñada para que consuma muy poca energía y sea lo más sostenible posible. La función principal es ahorrar energía, además de proporcionar iniciativas de reutilización.
+
+- En el caso del Software, EnerGreen es un gran factor a tener en cuenta, el cual se ha ido optimizando. Al usar una placa solar para nuestro servidor como energía es mucho más renovable y saludable para el medio ambiente.
+
+#### Ventajas Clave del Enfoque Sostenible
+
+- El bajo consumo energético provoca beneficios ambientales o económicos, reduciendo la huella de carbono y los costos. Aunque también permite:
+
+- Ampliar la vida útil de, en este caso, nuestro ordenadores
+- Disminuir la generación de residuos electrónicos
+- Reducir la fabricacion nuevos dispositivos
+
+
 ### 🌟 ¿Por qué es importante esta página?
 - La Agenda 2030 es un plan global para mejorar la vida de las personas y proteger el planeta. Esta página busca:
 
@@ -75,8 +92,6 @@ Las secciones están enlazadas desde el menú para facilitar la navegación.
 - Concienciar: Fomentar la reflexión sobre cómo podemos contribuir a estos objetivos.
 
 - Inspirar: Motivar a las personas a tomar acción en su día a día.
-
-
 
 ##  ¡Gracias por visitar EnerGreen🌱! Juntos podemos construir un futuro más sostenible. 🌍✨
 
