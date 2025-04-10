@@ -7,6 +7,32 @@
 
 }
 
+/* Modo Eco */
+
+/* Modo Eco */
+body.eco-mode {
+    --primary-color: hsl(108, 40%, 30%);
+    --secondary-color: hsl(108, 35%, 25%);
+    --background-color: #1a1a1a;
+    --text-color: #f1f1f1;
+    --color-recuadro: hsl(108, 20%, 20%);
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+body.eco-mode .encabezado {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+}
+
+body.eco-mode .cuerpo_seccion {
+    background-color: var(--background-color);
+}
+
+body.eco-mode .seccion2__articulo2 {
+    background-color: var(--color-recuadro);
+}
+
 
 *{
     margin:0;
@@ -54,6 +80,10 @@
 
 .menu__enlaces{
     font-size: 2rem;
+    
+}
+
+.eco-button{
     
 }
 
