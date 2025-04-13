@@ -76,15 +76,37 @@ body.eco-mode .seccion2__articulo2 {
     flex-direction: row;
     list-style-type: none;
     gap: 10rem;
+    margin-bottom:1rem ;
 }
 
 .menu__enlaces{
-    font-size: 2rem;
-    
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: var(--text-color);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.eco-button{
-    
+.menu__enlaces:hover {
+    background-color: var(--secondary-color);
+    color: var(--background-color);
+}
+
+.eco-button {
+    font-size: 1.5rem;
+    background-color: var(--primary-color);
+    color: var(--background-color);
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.eco-button:hover {
+    background-color: var(--primary-color);
+    color: var(--text-color);
 }
 
 
@@ -233,7 +255,10 @@ body.eco-mode .seccion2__articulo2 {
     font-size: 1.1rem;
 }
 
-
+.lista__menu{
+    background-color: var(--color-recuadro);
+    border-radius: 0.5rem;
+}
 
 footer{
     display: flex;
