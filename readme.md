@@ -1,27 +1,6 @@
 
 ## 📌 ¿Qué es esta página?
-Esta página web, llamada EnerGreen🌱, es una plataforma informativa que tiene como objetivo dar a conocer los 17 Objetivos de Desarrollo Sostenible (ODS) propuestos por la ONU en la Agenda 2030.
-
-### 🛠️ Estructura de la página
-- La página está dividida en varias secciones:
-
-- Header (Encabezado):
-
-### Título de la página: EnerGreen🌱.
-
-- Menú de navegación con los 17 ODS enumerados y enlazados a sus respectivas secciones.
-
-- Imagen representativa de los ODS.
-
-### Main (Cuerpo principal):
-
-- Cada objetivo tiene su propia sección con un título, un icono y una descripción breve.
-
-Las secciones están enlazadas desde el menú para facilitar la navegación.
-
-### Footer (Pie de página):
-
-- Información sobre los derechos de autor y el propósito de la página.
+Esta página web, llamada EnerGreen🌱, es una plataforma informativa que tiene como objetivo dar a conocer los 17 Objetivos de Desarrollo Sostenible (ODS) propuestos por la ONU en la Agenda 2030, conocer por qué se crearon y concienciar sobre el uso del green computing.
 
 ### 🎯 Objetivos de Desarrollo Sostenible (ODS)
 #### Los 17 ODS son los siguientes:
@@ -60,7 +39,7 @@ Las secciones están enlazadas desde el menú para facilitar la navegación.
 
 - Alianzas para lograr los objetivos 🤝: Cooperación global.
 
-### 💻 Tecnologías utilizadas
+### 💻 Tecnologías utilizadas en este proyecto:
 - HTML5: Para la estructura de la página.
 
 - CSS: Para los estilos y diseño responsive.
